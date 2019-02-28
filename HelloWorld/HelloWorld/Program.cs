@@ -12,6 +12,7 @@ namespace HelloWorld
             Console.WriteLine("yasss");
             Console.WriteLine("this");
             Console.WriteLine("hhhhh");
+            Console.WriteLine("anoter");
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
